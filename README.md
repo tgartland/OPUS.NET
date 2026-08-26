@@ -6,3 +6,4 @@ Mail address:
   Grovinvegen 25
   7870 Grong
   Norway
+IBAN: NO2144640921010
