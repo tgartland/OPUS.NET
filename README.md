@@ -7,3 +7,4 @@ Mail address:
   7870 Grong
   Norway
 IBAN: NO2144640921010
+Cost of full-time license: NOK 70.000,-
